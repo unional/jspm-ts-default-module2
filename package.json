@@ -1,0 +1,14 @@
+{
+  "registry": "jspm",
+  "main": "index.ts",
+  "format": "es6",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash": "npm:lodash@^3.10.1"
+  },
+  "devDependencies": {
+    "typescript": "npm:typescript@^1.6.2"
+  }
+}
