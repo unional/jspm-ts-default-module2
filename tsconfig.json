@@ -1,10 +1,30 @@
 {
-	"compilerOptions": {
-		"target": "ES3",
-		"sourceMap": true,
-		"out": "dist"
-	},
-	"rules": {
-		"quotemark": [true, "single"]
-	}
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es3",
+        "noImplicitAny": false,
+        "outDir": "dist",
+        "rootDir": "src",
+        "sourceMap": true
+    },
+    "rules": {
+        "quotemark": [
+            true,
+            "single"
+        ]
+    },
+    "filesGlob": [
+        "src/**",
+        "typings/**"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "src/index.ts",
+        "src/main.ts",
+        "typings/lodash/lodash.d.ts"
+    ],
+    "compileOnSave": false,
+    "buildOnSave": false
 }
