@@ -6,7 +6,8 @@
   "license": "MIT",
   "main": [
     "index.ts",
-    "main.ts"
+    "main.ts",
+    "array.default.ts"
   ],
   "jspm": {
     "registry": "jspm",

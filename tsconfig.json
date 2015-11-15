@@ -21,6 +21,7 @@
         "node_modules"
     ],
     "files": [
+        "src/array.default.ts",
         "src/index.ts",
         "src/main.ts",
         "typings/lodash/lodash.d.ts"
