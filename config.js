@@ -8,7 +8,7 @@ System.config({
   },
 
   packages: {
-    "lib": {
+    "src": {
       "defaultExtension": false
     }
   },

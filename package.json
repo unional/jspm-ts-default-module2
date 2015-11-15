@@ -4,11 +4,7 @@
   "author": "unional",
   "version": "0.1.6",
   "license": "MIT",
-  "main": [
-    "index.ts",
-    "main.ts",
-    "array.default.ts"
-  ],
+  "main": "index.ts",
   "jspm": {
     "registry": "jspm",
     "format": "es6",
