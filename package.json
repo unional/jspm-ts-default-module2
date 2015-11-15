@@ -2,7 +2,7 @@
   "name": "jspm-ts-default-module2",
   "description": "Module to test pure typescript module in jspm.",
   "author": "unional",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "main": [
     "index.ts",
